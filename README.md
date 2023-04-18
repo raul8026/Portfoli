@@ -2,7 +2,7 @@ Aquest és el meu **__portfoli__** sobre els meus estudis del "Cicle Superior de
 
 Els meus estudis de DAM els vaig fer a l'Institut Nicolau Copèrnic.
 
-
+<img src="images/logo·header.png" alt="Logo Nicolau Copèrnic" width="150">
 
 Els mòduls que he fet són:
 - [M01: Sistemas Informàtics]
